@@ -6,7 +6,7 @@ Do you have challanging inference problems that are difficult to solve with the 
 Are you looking to fit the same forward model to thousands or millions of observed datasets?
 `nbi` may be your solution. 
 
-`nbi` is a simulation-based inference engine designed as a straightforward substitution for your favorite MCMC or Nested
+`nbi` is a neural posterior estimation engine designed as a straightforward substitution for your favorite MCMC or Nested
 Sampling packages. It is great for solving challanging inference problems as well as batch inference problems.
 It implements a custom neural posterior estimation algorithm that integrates importance sampling, which allows for
 efficient, asymptotically exact results.
